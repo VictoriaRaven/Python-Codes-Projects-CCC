@@ -13,8 +13,8 @@ These are the coding files for Python that I learned in class and assignments wi
 Most of these codes are beginner to intermediate level.
 
 ### Textbook
-A. Y. Bhargava, *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*, Manning, May 2016. [Online Textbook Available](https://www.manning.com/books/grokking-algorithms). [Accessed: n.d.]
-K. Rosen, *Discrete Mathematics and Its Applications, 8th ed.*, McGraw-Hill Education, Jul. 9, 2018. [Online Textbook Available](https://www.mheducation.com/highered/product/Discrete-Mathematics-and-Its-Applications-Rosen.html). [Accessed: n.d.]
+- A. Y. Bhargava, *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*, Manning, May 2016. [Online Textbook Available](https://www.manning.com/books/grokking-algorithms). [Accessed: n.d.]
+- K. Rosen, *Discrete Mathematics and Its Applications, 8th ed.*, McGraw-Hill Education, Jul. 9, 2018. [Online Textbook Available](https://www.mheducation.com/highered/product/Discrete-Mathematics-and-Its-Applications-Rosen.html). [Accessed: n.d.]
 
 ### Contact
 
