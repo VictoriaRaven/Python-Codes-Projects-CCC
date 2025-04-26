@@ -9,7 +9,7 @@ Links:
 
 ## Information
 
-These are the coding files for Python that I learned in class and assignments with my own version of the code. It has a mix of all concepts, ranging from data structures, oop, dictionaries, key, values, etc. I could rank this level as beginner to intermediate level. These also includes the answer keys, but because the professor no longer teaches at this college and that the college itself uses a differnt exam, I believe that it is okay to open this to the public. If the college says I must remove this and make it private please message me!
+These are the coding files for Python that I learned in class and assignments with my own version of the code. It has a mix of all concepts, ranging from data structures, oop, dictionaries, key, values, GUI/Tinker, etc. I could rank this level as beginner to intermediate level. These also includes the answer keys, but because the professor no longer teaches at this college and that the college itself uses a differnt exam, I believe that it is okay to open this to the public. If the college says I must remove this and make it private please message me!
 
 ### Textbook
 - A. Y. Bhargava, *Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People*, Manning, May 2016. [Online Textbook Available](https://www.manning.com/books/grokking-algorithms). [Accessed: n.d.]
